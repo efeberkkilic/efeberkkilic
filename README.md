@@ -59,17 +59,6 @@
   />
 </p>
 
----
-
-## Current Direction
-
-<p align="center">
-  Backend Engineering → Cloud Engineering → Distributed Systems
-</p>
-
-<p align="center">
-  <strong>Build · Deploy · Scale · Improve</strong>
-</p>
 
 ---
 
