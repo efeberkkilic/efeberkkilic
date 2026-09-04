@@ -34,7 +34,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://efeberk.dev">efeberk.dev</a>
-</p>
