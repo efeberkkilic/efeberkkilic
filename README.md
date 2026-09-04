@@ -20,16 +20,6 @@
 
 ---
 
-## About Me
-
-- Backend development with **C# & ASP.NET Core**
-- Focused on **Cloud Engineering**
-- Learning **Azure & AWS**
-- Interested in **Clean Architecture, REST APIs and distributed systems**
-- Building real-world projects and developer tools
-
----
-
 ## Backend & Cloud
 
 <p align="center">
