@@ -20,8 +20,6 @@
 
 ---
 
-## Backend & Cloud
-
 <p align="center">
   <img src="./assets/backend-cloud-strip.png" alt="Backend Cloud Stack" width="100%" />
 </p>
