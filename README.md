@@ -24,11 +24,11 @@
 
 ---
 
-## GitHub Overview
+## Languages
 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=efeberkkilic&theme=github_dark"
-    height="170"
+    height="190"
   />
 </p>
