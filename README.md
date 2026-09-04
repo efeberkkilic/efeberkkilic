@@ -1,4 +1,3 @@
-<!-- HERO -->
 <p align="center">
   <img src="./assets/github-profile-banner.png" alt="Efe Berk Kılıç - Backend & Cloud" width="100%" />
 </p>
@@ -31,22 +30,18 @@
 
 ---
 
-## Tech Stack
+## Backend & Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,aws,docker,postgres,git,github,vscode" />
+  <img src="./assets/backend-cloud-strip.png" alt="Backend Cloud Stack" width="100%" />
 </p>
 
 ---
 
-## Backend & Cloud
+## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-Backend-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,aws,docker,postgres,git,github,vscode" />
 </p>
 
 ---
