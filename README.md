@@ -12,6 +12,12 @@
   Building scalable backend systems, learning cloud architecture, and creating practical developer-focused projects.
 </p>
 
+<p align="center">
+  <a href="https://efeberk.dev">
+    <img src="https://img.shields.io/badge/efeberk.dev-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=22c55e" />
+  </a>
+</p>
+
 ---
 
 ## About Me
@@ -50,13 +56,6 @@
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=efeberkkilic&theme=github_dark"
     height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=efeberkkilic&theme=github_dark"
-    width="100%"
   />
 </p>
 
