@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  Building scalable backend systems, learning cloud architecture, and creating practical developer-focused projects.
-</p>
-
-<p align="center">
   <a href="https://efeberk.dev">
     <img src="https://img.shields.io/badge/efeberk.dev-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=22c55e" />
   </a>
