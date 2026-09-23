@@ -19,7 +19,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,aws,docker,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,react,github,vscode" />
 </p>
 
 ---
