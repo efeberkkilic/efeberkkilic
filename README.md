@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="./assets/github-profile-banner.png" alt="Efe Berk Kılıç - Backend & Cloud" width="100%" />
-</p>
-
 <h1 align="center">Efe Berk Kılıç</h1>
 
 <p align="center">
-  <strong>Backend Developer · Cloud Engineering</strong>
+  <strong>Software Engineer</strong>
 </p>
 
 <p align="center">
