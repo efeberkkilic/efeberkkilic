@@ -1,5 +1,3 @@
-<h1 align="center">Efe Berk Kılıç</h1>
-
 <p align="center">
   <strong>Software Engineer</strong>
 </p>
